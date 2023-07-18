@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pastanaga/static/css/main.239fd54f.chunk.css",
+    "main.js": "/pastanaga/static/js/main.31b581d5.chunk.js",
+    "main.js.map": "/pastanaga/static/js/main.31b581d5.chunk.js.map",
+    "runtime-main.js": "/pastanaga/static/js/runtime-main.9615d9c3.js",
+    "runtime-main.js.map": "/pastanaga/static/js/runtime-main.9615d9c3.js.map",
+    "static/js/2.68ee2cc9.chunk.js": "/pastanaga/static/js/2.68ee2cc9.chunk.js",
+    "static/js/2.68ee2cc9.chunk.js.map": "/pastanaga/static/js/2.68ee2cc9.chunk.js.map",
+    "static/js/3.3e698843.chunk.js": "/pastanaga/static/js/3.3e698843.chunk.js",
+    "static/js/3.3e698843.chunk.js.map": "/pastanaga/static/js/3.3e698843.chunk.js.map",
+    "index.html": "/pastanaga/index.html",
+    "static/css/main.239fd54f.chunk.css.map": "/pastanaga/static/css/main.239fd54f.chunk.css.map",
+    "static/js/2.68ee2cc9.chunk.js.LICENSE.txt": "/pastanaga/static/js/2.68ee2cc9.chunk.js.LICENSE.txt",
+    "static/media/alive.8f4daa9e.png": "/pastanaga/static/media/alive.8f4daa9e.png",
+    "static/media/dead.d6357b08.png": "/pastanaga/static/media/dead.d6357b08.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9615d9c3.js",
+    "static/js/2.68ee2cc9.chunk.js",
+    "static/css/main.239fd54f.chunk.css",
+    "static/js/main.31b581d5.chunk.js"
+  ]
+}
